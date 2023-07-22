@@ -1,4 +1,4 @@
-# HORISEO WebPage
+# HORISEON WebPage
 
 ## Description
 
