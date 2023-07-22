@@ -156,6 +156,8 @@ You are required to submit the following for review:
 
 - The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+This is the link of my [GitHub repository](https://github.com/Kirill777-web/02-Challenge)
+
 ![screenshot homework](/assets/images/Screenshot%20homework.png?raw=true 'screenshot')
 
 ---
